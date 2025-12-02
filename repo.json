@@ -1,0 +1,8 @@
+{
+    "name": "Mega repository",
+    "description": "Add all repositories easily.",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/821938089/cloudstream-extensions/builds/plugins.json"
+    ]
+}
